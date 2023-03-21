@@ -4,6 +4,6 @@
     </head>
     <body>
         Data Nama Yang Diinputkan adalah : <?php echo
-        $_GET["name"]; ?>
+        $_GET["nama"]; ?>
     </body>
 </html>
